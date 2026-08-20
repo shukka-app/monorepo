@@ -1,0 +1,6 @@
+[submodule "shukka"]
+	path = shukka
+	url = https://github.com/shukka-app/shukka.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/shukka-app/docs.git
