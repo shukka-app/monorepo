@@ -1,0 +1,5 @@
+{
+  "worktree": {
+    "setup": "set -e\ngit submodule update --init --recursive -- shukka docs\nnpm ci --prefix shukka\nnpm run generate:routes --prefix shukka\nnpm ci --prefix docs"
+  }
+}
