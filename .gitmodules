@@ -4,3 +4,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/shukka-app/docs.git
+[submodule "sdk"]
+	path = sdk
+	url = https://github.com/shukka-app/sdk.git
